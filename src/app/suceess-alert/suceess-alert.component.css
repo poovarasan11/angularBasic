@@ -1,0 +1,8 @@
+.sucessAlert {
+    background-color: rgb(104, 216, 138);
+    border-color: rgb(214, 138, 103);
+    width: 650px;
+    height: 50px;
+    text-align: left;
+    border: 1px solid rgb(27, 129, 27);
+}
